@@ -1,0 +1,16 @@
+[
+{
+  "modid": "laboratory",
+  "name": "Laboratory Mod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["reef-bit"],
+  "credits": "reef-bit",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
