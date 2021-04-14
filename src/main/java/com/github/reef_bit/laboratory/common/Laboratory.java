@@ -22,6 +22,7 @@ public class Laboratory {
 
     @Mod.EventHandler
     public void preInitialise(FMLPreInitializationEvent event) {
+        PROXY.preInitialise(event);
     }
 
     @Mod.EventHandler

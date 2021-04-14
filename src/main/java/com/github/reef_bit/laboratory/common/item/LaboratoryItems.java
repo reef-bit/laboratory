@@ -7,5 +7,5 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 
 @GameRegistry.ObjectHolder(Laboratory.MODID)
 public class LaboratoryItems {
-    public static final Item CAUTION_BLOCK = null;
+    public static final Item IMPENETRABLE_GLASS = null;
 }
